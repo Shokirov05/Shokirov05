@@ -35,4 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shokirov05&show_icons=true&locale=en" alt="Shokirov05" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shokirov05&" alt="Shokirov05" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shokirov05" alt="Shokirov05" /></p>
